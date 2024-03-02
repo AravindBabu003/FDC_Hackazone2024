@@ -1,4 +1,4 @@
-public class Main {
+public class Challenge {
     public static void main(String[] args) throws Exception {
         // Test case 1
         int[][] flights1 = {{0, 1, 100}, {1, 2, 100}, {2, 0, 100}, {1, 3, 600}, {2, 3, 200}};
