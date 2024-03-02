@@ -21,6 +21,7 @@ public class Challenge {
             if(dst>src) {
                 if (flights[i][0] == src && flights[i][1] == dst) {
                     cost = flights[i][2];
+                    break;
                 }
             }
         }
